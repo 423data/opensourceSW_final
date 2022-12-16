@@ -9,6 +9,10 @@ We need to find the best model with the highest classification accuracy possible
 
 ### The training dataset
 brain tumor data in MRI
+- glioma_tumor
+- meningioma_tumor
+- no_tumor
+- pituitary_tumor
 
 <br>
 
@@ -27,7 +31,7 @@ I chose Gaussian process classification (GPC) in Scikit-Learn
 - random_state
 - multi_class
 - n_jobs
-- 
+
 <br>
 
 ### Configuration instructions
@@ -37,7 +41,7 @@ I chose Gaussian process classification (GPC) in Scikit-Learn
 4. Classification with Scikit Learn Library
     - Find the best model and hyperparameter
     - Print accuracy
-    - 
+    
 <br>
 
 ### Operating instructions
@@ -50,9 +54,10 @@ Currently, the implementation is restricted to using the logistic link function.
 <br>
 
 ### Copyright and licensing information
-https://github.com/scikit-learn/scikit-learn/blob/main/COPYING
+- MIT License
+- Scikit Learn github : https://github.com/scikit-learn/scikit-learn/blob/main/COPYING
 
 <br>
 
 ### Contact information for the distributor or author
-https://github.com/scikit-learn/scikit-learn
+- Email: dkgus3456@cau.ac.kr
