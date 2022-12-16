@@ -2,8 +2,8 @@
 
 
 ### What I do in my project
-MRI로 촬영한 brain tumor 데이터를 훈련한 뒤 분류하는 모델을 찾는다.
-분류 정확도가 최대한 높은 최고의 모델을 찾아야 한다.
+After training brain tumor photographic data taken with MRI, find a model that classifies them.
+We need to find the best model with the highest classification accuracy possible.
 
 ### The training dataset
 brain tumor data in MRI
@@ -21,6 +21,7 @@ brain tumor data in MRI
 
 
 ### Copyright and licensing information
-
+https://github.com/scikit-learn/scikit-learn/blob/main/COPYING
 
 ### Contact information for the distributor or author
+https://github.com/scikit-learn/scikit-learn
